@@ -33,6 +33,15 @@
 </div>
 ---
 
+## 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Lucaslssilva&theme=tokyonight&hide_border=true"/>
+
+</div>
+---
+
 ## 📫 Contato
 
 - 💼 LinkedIn: *(colocaremos depois)*
