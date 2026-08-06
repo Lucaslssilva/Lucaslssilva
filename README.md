@@ -44,7 +44,11 @@
 
 ## 📫 Contato
 
-- 💼 LinkedIn: *(colocaremos depois)*
-- 📧 E-mail: *(colocaremos depois)*
+<div align="left">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Luiz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-luiz0625)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaslssilva2015@gmail.com)
+
+</div>
 ---
