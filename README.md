@@ -1,11 +1,6 @@
 <h1 align="center"> Olá, eu sou Lucas Luiz!</h1>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Estudante+de+ADS+-+4%C2%BA+Per%C3%ADodo+%F0%9F%8E%93;Python+%E2%80%A2+Java+%E2%80%A2+SQL+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
-
+<h3 align="center">💻 Desenvolvedor em formação | 🎓 ADS - 4º Período</h3>
 ---
 
 ##  Sobre mim
