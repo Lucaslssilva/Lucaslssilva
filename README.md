@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center"> Olá, eu sou Lucas Luiz!</h1>
 
-<!--
-**Lucaslssilva/Lucaslssilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> Desenvolvedor em formação | 🎓 ADS - 4º Período</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Sobre mim
+
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (4º período)**
+- 📍 Recife - PE
+- 💻 Focado em desenvolvimento de software
+- 📚 Atualmente estudando **Python, Java, SQL, HTML, CSS e Git**
+- 🎯 Buscando oportunidade como Desenvolvedor ou Estagiário
+
+---
+
+## 🛠️ Tecnologias
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,vscode,idea,mysql" />
+</p>
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: *(colocaremos depois)*
+- 📧 E-mail: *(colocaremos depois)*
+
+---
